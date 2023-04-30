@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MLkittCamereses</string>
+    <string name="start_button_scan">Start</string>
+
 </resources>
