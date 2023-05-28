@@ -20,4 +20,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <com.roman.mlkittcamereses.scanActiviti.LendmarkView
+        android:id="@+id/lendmarkView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.roman.mlkittcamereses.scanActiviti.LendmarkView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
